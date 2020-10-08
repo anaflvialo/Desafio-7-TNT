@@ -15,4 +15,4 @@ Cada vending machine servirá como um grande banco de dados fornecendo informaç
 
 Os desenvolvedores deverão utilizar IBM Watson Studio, e IoT na IBM Cloud para criar um modelo preditivo capaz de alertar momento ideal que será necessária uma nova recarga de uma máquina de venda automática de TNT. Os participantes deverão se conectar a dispositivos IoT para receber os dados de estoque das máquinas em tempo real, e ajudar a empresa na reposição, onde a máquina de venda automática somente será visitada quando houver a necessidade de reabastecimento, poupando gastos desnecessários.
 
-Mais informaçoes no github do desafio: https://github.com/maratonadev-br/desafio-7-2020
+Mais informaçoes no repositório do desafio: https://github.com/maratonadev-br/desafio-7-2020
